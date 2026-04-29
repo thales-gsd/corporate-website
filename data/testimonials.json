@@ -1,0 +1,36 @@
+{
+  "heading": "O que nossos clientes dizem",
+  "subheading": "Mais de 180 clientes satisfeitos em todo o Brasil.",
+  "items": [
+    {
+      "quote": "A Vértice entregou nosso galpão 2 semanas antes do prazo e dentro do orçamento. Nunca vi tanta organização em uma obra.",
+      "name": "Carlos Mendes",
+      "company": "Distribuidora Mendes & Cia",
+      "photo": "/images/testimonials/carlos.jpg"
+    },
+    {
+      "quote": "Qualidade impecável, comunicação excelente e pós-obra exemplar. Recomendo sem hesitar para qualquer projeto.",
+      "name": "Ana Paula Ferreira",
+      "company": "Franquia Natura — SP",
+      "photo": "/images/testimonials/ana.jpg"
+    },
+    {
+      "quote": "Construímos nossa nova sede com a Vértice e o resultado superou todas as expectativas. Equipe competente e comprometida.",
+      "name": "Roberto Tavares",
+      "company": "Consultoria Tavares Group",
+      "photo": "/images/testimonials/roberto.jpg"
+    },
+    {
+      "quote": "Processo transparente do início ao fim. O painel de acompanhamento online nos deu total segurança durante a obra.",
+      "name": "Mariana Lopes",
+      "company": "ML Empreendimentos",
+      "photo": "/images/testimonials/mariana.jpg"
+    },
+    {
+      "quote": "Reformamos nosso escritório sem parar as operações. A Vértice organizou o cronograma de forma cirúrgica.",
+      "name": "Paulo Siqueira",
+      "company": "Siqueira Advocacia",
+      "photo": "/images/testimonials/paulo.jpg"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "heading": "Sobre a Vértice",
+  "paragraph": "A Construtora Vértice nasceu da visão de que construir vai além de erguer paredes — é criar espaços que transformam vidas. Com uma equipe multidisciplinar de engenheiros, arquitetos e gestores, entregamos projetos residenciais, comerciais e industriais com rigoroso controle de qualidade e sustentabilidade.",
+  "image": "/images/about.jpg",
+  "stats": [
+    { "value": 22, "suffix": "+", "label": "Anos de experiência" },
+    { "value": 340, "suffix": "+", "label": "Projetos entregues" },
+    { "value": 180, "suffix": "+", "label": "Clientes satisfeitos" },
+    { "value": 15, "suffix": "", "label": "Prêmios recebidos" }
+  ]
+}

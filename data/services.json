@@ -1,0 +1,36 @@
+{
+  "heading": "Nossos Serviços",
+  "subheading": "Soluções completas em construção civil para cada etapa do seu projeto.",
+  "items": [
+    {
+      "icon": "Building2",
+      "title": "Construção Residencial",
+      "description": "Casas e condomínios com design personalizado, materiais de primeira linha e entrega no prazo."
+    },
+    {
+      "icon": "Landmark",
+      "title": "Obras Comerciais",
+      "description": "Escritórios, galpões e centros comerciais pensados para produtividade e representatividade."
+    },
+    {
+      "icon": "Wrench",
+      "title": "Reformas & Retrofit",
+      "description": "Modernização de ambientes existentes preservando a estrutura e maximizando o valor do imóvel."
+    },
+    {
+      "icon": "FileText",
+      "title": "Projetos & Consultoria",
+      "description": "Assessoria técnica completa: viabilidade, projetos executivos e gestão de contratos."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Construção Sustentável",
+      "description": "Certificações LEED e AQUA, energia solar, reaproveitamento de água e materiais eco-friendly."
+    },
+    {
+      "icon": "Shield",
+      "title": "Gestão de Obras",
+      "description": "Acompanhamento dedicado do cronograma, qualidade e custos para zero surpresas na entrega."
+    }
+  ]
+}

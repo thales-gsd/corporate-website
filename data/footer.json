@@ -1,0 +1,10 @@
+{
+  "tagline": "Construindo o futuro com solidez e precisão.",
+  "links": [
+    { "label": "Sobre", "href": "#about" },
+    { "label": "Serviços", "href": "#services" },
+    { "label": "Equipe", "href": "#team" },
+    { "label": "Contato", "href": "#contact" }
+  ],
+  "copyright": "© 2024 Construtora Vértice. Todos os direitos reservados."
+}

@@ -1,0 +1,30 @@
+{
+  "heading": "Nossa Equipe",
+  "subheading": "Profissionais apaixonados por construir coisas que duram.",
+  "members": [
+    {
+      "name": "Ricardo Almeida",
+      "role": "CEO & Fundador",
+      "photo": "/images/team/ricardo.jpg",
+      "bio": "Engenheiro civil com 25 anos de experiência em grandes empreendimentos. Fundou a Vértice com a missão de humanizar a construção civil."
+    },
+    {
+      "name": "Fernanda Costa",
+      "role": "Diretora de Projetos",
+      "photo": "/images/team/fernanda.jpg",
+      "bio": "Arquiteta premiada, responsável pelo portfólio de projetos residenciais de alto padrão e certificações sustentáveis."
+    },
+    {
+      "name": "Marcos Pinheiro",
+      "role": "Gerente de Obras",
+      "photo": "/images/team/marcos.jpg",
+      "bio": "20 anos no canteiro de obras. Especialista em gestão de cronogramas e controle de qualidade in loco."
+    },
+    {
+      "name": "Juliana Ramos",
+      "role": "Diretora Financeira",
+      "photo": "/images/team/juliana.jpg",
+      "bio": "MBA em finanças corporativas pela FGV. Garante a saúde financeira dos projetos e a transparência para os clientes."
+    }
+  ]
+}

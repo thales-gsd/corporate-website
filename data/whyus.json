@@ -1,0 +1,27 @@
+{
+  "heading": "Por que escolher a Vértice?",
+  "subheading": "Diferenciais que garantem tranquilidade do primeiro contato à entrega das chaves.",
+  "image": "/images/whyus.jpg",
+  "items": [
+    {
+      "icon": "CheckCircle",
+      "title": "Engenharia certificada",
+      "description": "Todos os projetos são conduzidos por engenheiros com CREA ativo e processos ISO 9001."
+    },
+    {
+      "icon": "Clock",
+      "title": "Prazo garantido",
+      "description": "Contrato com cláusula de prazo e multa — porque seu tempo tem valor."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Transparência total",
+      "description": "Relatórios semanais de obra, fotos e acesso ao painel do cliente em tempo real."
+    },
+    {
+      "icon": "HeartHandshake",
+      "title": "Pós-obra dedicada",
+      "description": "Assistência técnica por 5 anos após a entrega. Construímos relacionamentos duradouros."
+    }
+  ]
+}

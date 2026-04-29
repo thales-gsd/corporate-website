@@ -1,0 +1,36 @@
+{
+  "heading": "Nossa História",
+  "subheading": "Dois décadas de crescimento, aprendizado e entregas que marcaram gerações.",
+  "milestones": [
+    {
+      "year": "2002",
+      "title": "Fundação",
+      "description": "A Vértice nasce em Campinas com 3 sócios e foco em obras residenciais de médio porte."
+    },
+    {
+      "year": "2007",
+      "title": "Expansão comercial",
+      "description": "Primeiros contratos com empresas: galpões logísticos e centros de distribuição."
+    },
+    {
+      "year": "2012",
+      "title": "Certificação ISO 9001",
+      "description": "Reconhecimento internacional da qualidade dos nossos processos construtivos."
+    },
+    {
+      "year": "2016",
+      "title": "1.000 unidades entregues",
+      "description": "Marco histórico celebrado com colaboradores, clientes e parceiros."
+    },
+    {
+      "year": "2019",
+      "title": "Divisão Sustentável",
+      "description": "Criação da vertical de construção verde com foco em certificações LEED e energia solar."
+    },
+    {
+      "year": "2024",
+      "title": "Presença nacional",
+      "description": "Atuação em 8 estados, com obras simultâneas em São Paulo, Minas e Goiás."
+    }
+  ]
+}

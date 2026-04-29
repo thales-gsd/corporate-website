@@ -1,0 +1,15 @@
+{
+  "brandName": "Construtora Vértice",
+  "logoUrl": "/images/logo.png",
+  "primaryColor": "#1a2e4a",
+  "accentColor": "#c9a84c",
+  "backgroundColor": "#f8f7f4",
+  "headingFont": "Playfair Display",
+  "bodyFont": "DM Sans",
+  "favicon": "/favicon.ico",
+  "seo": {
+    "title": "Construtora Vértice — Solidez que transforma",
+    "description": "Há mais de 20 anos construindo o futuro com qualidade, inovação e compromisso.",
+    "ogImage": "/images/og.jpg"
+  }
+}
